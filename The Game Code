@@ -1,0 +1,1 @@
+javascript:(function(){if(document.getElementById('scoreBoard')){refreshMarkletGame();return};var d=document;s=d.createElement('script');s.setAttribute('src','http://www.marklets.com/bookmarklets/marklet/MarkletGame/MarkletGame.js');s.setAttribute('type','text/javascript');d.body.appendChild(s)})()
